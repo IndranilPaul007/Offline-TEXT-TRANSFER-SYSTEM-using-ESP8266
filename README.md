@@ -21,7 +21,7 @@ This project turns an ESP8266 into a standalone Wi-Fi Access Point that hosts a 
 
 ## How to Use
 1. Flash the code to your ESP8266 using the Arduino IDE. 
-2. Connect your phone or laptop to the **ESP_Vault** Wi-Fi network (Password: `password123`).
+2. Connect your phone or laptop to the **Wifi_Name** Wi-Fi network (Password: `your_set_password`).
 3. Open a web browser and navigate to `http://192.168.4.1`.
 4. Type or paste your text and click **Save to Board**. 
 5. Connect another device to the same Wi-Fi network and refresh the page to retrieve the saved text!
