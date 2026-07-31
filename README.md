@@ -12,7 +12,7 @@ This project turns an ESP8266 into a standalone Wi-Fi Access Point that hosts a 
 
 ## Hardware Required
 * ESP8266 Development Board (e.g., NodeMCU 1.0 / ESP-12E)
-* Micro-USB Cable (for power)
+* Micro-USB Cable (for data and power)
 
 ## Software & Libraries Used
 * `ESP8266WiFi.h` (For the Access Point)
