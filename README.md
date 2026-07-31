@@ -5,6 +5,13 @@ A local, off-the-grid web clipboard and file-sharing vault built with the ESP826
 This project turns an ESP8266 into a standalone Wi-Fi Access Point that hosts a web-based text vault. Users can connect to the network, paste notes, links, or code snippets from their phone, and instantly retrieve them on a laptop (or vice versa). Everything is saved directly to the microcontroller's internal flash memory, requiring zero internet connection.
 
 ## Features
+
+<div align="center">
+  <img src="FILE%20sharing%20using%20ESP8266%20Phone%20preview.jpeg" alt="Phone UI" width="250">
+  <img src="FILE%20sharing%20using%20ESP8266%20PC%20or%20Laptop%20preview.jpeg" alt="Laptop UI" width="450">
+</div>
+
+## Features
 * **100% Offline:** Operates entirely on its own local Wi-Fi network (`ESP_Vault`).
 * **Flash Memory Storage:** Uses the `LittleFS` file system to safely store text data across reboots.
 * **Cross-Device Sharing:** Easily pass text/code between phones, tablets, and laptops without Bluetooth or messaging apps.
